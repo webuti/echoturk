@@ -1,2 +1,4 @@
 # echoturk
-Open source echo , raspberry pi, orange pi, 
+Open source echo 
+Açık kaynak kodlu echo projesi,
+raspberry pi, orange pi, 
